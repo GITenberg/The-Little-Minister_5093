@@ -1,0 +1,28 @@
+_repo: The-Little-Minister_5093
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Romanies -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Deception -- Fiction'
+- !lcsh 'Country life -- Scotland -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+title: The Little Minister
+url: http://www.gutenberg.org/ebooks/5093
