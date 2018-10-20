@@ -1,5 +1,5 @@
 _repo: The-Little-Minister_5093
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Deception -- Fiction'
 - !lcsh 'Country life -- Scotland -- Fiction'
 - !lcsh 'Clergy -- Fiction'
+- GITenberg
 title: The Little Minister
 url: http://www.gutenberg.org/ebooks/5093
